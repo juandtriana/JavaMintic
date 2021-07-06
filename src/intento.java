@@ -4,6 +4,8 @@ public class intento {
         
         int numero = 5;
         System.out.println(numero);
+        int numero2 = 7 ;
+        System.out.println(numero2);
     }
     
 }
