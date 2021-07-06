@@ -16,3 +16,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 # Repositorio_Prueba_GIT_VSC
 # Repositorio_Prueba_GIT_VSC
 # JavaMintic
+# JavaMintic
